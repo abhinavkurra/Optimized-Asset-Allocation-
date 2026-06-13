@@ -14,7 +14,7 @@
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Mathematical Foundation](#-mathematical-foundation)
@@ -32,7 +32,7 @@
 
 ---
 
-## Project Overview
+## 🔭 Project Overview
 
 Modern Portfolio Theory (MPT), introduced by Harry Markowitz in 1952, provides a mathematical framework for assembling a portfolio of assets such that **expected return is maximised for a given level of risk**. This project implements the **Maximum Sharpe Ratio** variant — the tangency portfolio — which yields the single best risk-adjusted allocation from the efficient frontier.
 
@@ -383,7 +383,7 @@ $$V_t = \prod_{\tau=1}^{t}\!\Bigl(1 + \textstyle\sum_{i} w_i^{*} \cdot r_{i,\tau
 
 ---
 
-## Configuration
+## 🔧 Configuration
 
 All parameters are defined in the `Constants` block at the top of `main.py`:
 
@@ -448,7 +448,7 @@ Their mutual correlation of **0.50** is among the two highest in the matrix. Hol
 
 ---
 
-## Limitations & Disclaimer
+## ⚠️ Limitations & Disclaimer
 
 > **This project is for educational and research purposes only. It does not constitute financial advice. Past performance is not indicative of future results.**
 
@@ -474,13 +474,13 @@ Their mutual correlation of **0.50** is among the two highest in the matrix. Hol
 
 ---
 
-## License
+## 📜 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## Acknowledgements
+## 🙏 Acknowledgements
 
 - **Harry Markowitz** — Nobel Laureate, father of Modern Portfolio Theory (1952)
 - **[yfinance](https://github.com/ranaroussi/yfinance)** — NSE market data retrieval
@@ -491,5 +491,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  Built with Python &nbsp;|&nbsp; Quantitative Finance &nbsp;|&nbsp; NSE Indian Equities &nbsp;|&nbsp; Jan 2022 – Jan 2026
+  Built with 🐍 Python &nbsp;|&nbsp; Quantitative Finance &nbsp;|&nbsp; NSE Indian Equities &nbsp;|&nbsp; Jan 2022 – Jan 2026
 </p>
