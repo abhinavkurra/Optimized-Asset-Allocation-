@@ -350,7 +350,7 @@ making no distributional assumption — a key PMPT advantage over MPT.
 
 ## Outputs & Visualisations
 
-### Deliverable 1 — Leptokurtic Return Distribution (`deliverable_1_fat_tails.png`)
+### 1 — Leptokurtic Return Distribution
 
 **Asset:** TATASTEEL.NS · **Daily MAR:** 0.024%
 
@@ -371,7 +371,7 @@ Ratio would be a complete risk description. They are not.
 
 ---
 
-### Deliverable 2 — MPT vs PMPT Metric Table (`deliverable_2_metrics.csv`)
+### 2 —  MPT vs PMPT Metric Table
 
 Full table reproduced in the [Metric Comparison section](#-deliverable-2--mpt-vs-pmpt-metric-comparison) above.
 
@@ -388,7 +388,7 @@ unfairly penalised by the Sharpe Ratio.
 
 ---
 
-### Deliverable 3 — PMPT Efficient Frontier (`deliverable_3_pmpt_frontier.html`)
+### 3 — PMPT Efficient Frontier
 
 Interactive Plotly scatter of **5,000 random long-only portfolios** in (Downside Deviation, Return)
 space, coloured by Sortino Ratio on a Viridis scale.
@@ -404,7 +404,7 @@ responds non-linearly to weight changes in skewed return distributions.
 
 ---
 
-### Deliverable 4 — Underwater Drawdown Curve (`deliverable_4_drawdown.html`)
+### 4 — Underwater Drawdown Curve
 
 An interactive Plotly time-series of the **maximum drawdown** experienced by the Max Sortino
 portfolio at every point in the 10-year backtest window (2016–2026):
@@ -427,7 +427,7 @@ lower than typical single-stock or sector-concentrated losses during the same pe
 
 ---
 
-### Deliverable 5 — Downside Correlation Heatmap (`deliverable_5_downside_correlation.png`)
+### 5 — Downside Correlation Heatmap
 
 **Filter:** Only trading days where Nifty 50 (`^NSEI`) posted a **negative daily return**.
 
